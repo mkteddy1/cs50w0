@@ -1,5 +1,5 @@
 # cs50w1
-CS50 Week 1
+CS50 Week 0
 My scratch project is a simple game where the player controls a footballer using arrow keys.
 The aim is to get the ball into the goal without it touching the goal keeper. 
 When the player scores, the crowd cheers and their points are tallied
